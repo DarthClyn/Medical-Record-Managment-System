@@ -8,9 +8,7 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "build": "NEXT_PUBLIC_IGNORE_WARNINGS=true next build"
-}
-
+  
   },
   "dependencies": {
     "@metamask/detect-provider": "^2.0.0",
